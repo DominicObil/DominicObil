@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Sobre Mí</h1>
-    <p>¡Hola! Soy <strong>[Dominic]</strong>, un apasionado <em>[tu profesión o campo de especialización]</em> con un interés particular en <em>[temas específicos en los que te destacas]</em>. Este repositorio es una ventana a mi trabajo y proyectos, donde podrás encontrar una muestra de mis habilidades y contribuciones en <em>[áreas relevantes]</em>.</p>
+    <p>¡Hola! Soy <strong>[Dominic]</strong>, un apasionado <em> de la programacion</em> con un interés particular en <em>[temas específicos en los que te destacas]</em>. Este repositorio es una ventana a mi trabajo y proyectos, donde podrás encontrar una muestra de mis habilidades y contribuciones en <em>[áreas relevantes]</em>.</p>
     <h2>Acerca de este Repositorio</h2>
     <p>Este repositorio sirve como un escaparate de mi trabajo, que incluye:</p>
     <ul>
