@@ -17,11 +17,9 @@
     <h2>Contacto</h2>
     <p>Si tienes alguna pregunta, sugerencia o simplemente quieres charlar, no dudes en contactarme a través de: /p>
     <ul>
-        <li><em>[obil.dominic@gmail.com</em></li>
+        <li><em>obil.dominic@gmail.com</em></li>
         
     </ul>
-    <h2>Agradecimientos</h2>
-    <p>Agradezco tu interés en mi trabajo y espero que encuentres útil este repositorio. ¡Gracias por tu visita!</p>
 </body>
 </html>
 
